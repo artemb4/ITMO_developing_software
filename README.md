@@ -1,1 +1,0 @@
-# ITMO_developing_software
