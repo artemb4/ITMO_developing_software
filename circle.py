@@ -3,7 +3,7 @@ import math
 
 def area(r):
     '''Принимает r - радиус круга, возвращает его площадь'''
-    if r < 0:
+    if r < 1:
         raise ValueError('radius cannot be less than 0')
     return math.pi * r * r
 
